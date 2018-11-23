@@ -5,6 +5,7 @@ This a MEAN stack Waypoints-Weather Application.
 To run the application follow the below steps:
 1) NodeJS: 
 	i) Download installation file from : https://nodejs.org/en/download/
+	
 	ii) Navigate to NodeJs folder:
 			cd .\NodeJS\
 	iii) To install dependencies run:
