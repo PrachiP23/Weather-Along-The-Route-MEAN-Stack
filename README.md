@@ -1,5 +1,5 @@
 # Weather Along The Route
-A distributed web application that provides users enhanced information about a travel route. Simply put, when a user inputs “From” and “To” locations on the application, the route and the weather on certain locations on the route are displayed. This Project is developed using MEAN stack.
+A distributed web application that provides users enhanced information about a travel route. Simply put, when a user inputs “From” and “To” locations on the application, the route and the weather on certain locations on the route are displayed. This project is developed using MEAN stack (Mongo, Express, Angular(6) and Node)
 
 ## Getting Started
 Following instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
