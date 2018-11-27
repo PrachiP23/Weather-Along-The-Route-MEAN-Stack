@@ -1,5 +1,5 @@
 # Weather Along The Route
-A distributed web application that provides users enhanced information about a travel route. Simply put, when a user inputs “From” and “To” locations on the application, the route and the weather on certain locations on the route is displayed. This Project is developed using MEan stack.
+A distributed web application that provides users enhanced information about a travel route. Simply put, when a user inputs “From” and “To” locations on the application, the route and the weather on certain locations on the route are displayed. This Project is developed using MEAN stack.
 
 ## Getting Started
 Following instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -18,16 +18,16 @@ git clone https://github.com/PrachiP23/Weather-Along-The-Route-MEAN-Stack.git
 
 2. **Build and run the backend app**  
 ```bash
-cd ./NodeJS
-npm install
+	cd ./NodeJS
+	npm install
 ```
 To start the server run:
 ```bash
-node ./index.js
+	node ./index.js
 ```
 OR
 ```bash
-nodemon ./index.js
+	nodemon ./index.js
 ```
 Backend server will run on <http://localhost:3000>.
 
